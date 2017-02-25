@@ -1,0 +1,362 @@
+fileFormatVersion: 2
+guid: c501409c9a4694d4fa1fea37734aae38
+timeCreated: 1459016442
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Box002
+    100004: Box003
+    100006: Box004
+    100008: Box005
+    100010: Box006
+    100012: Box007
+    100014: Box008
+    100016: Box009
+    100018: Box010
+    100020: Box011
+    100022: Box012
+    100024: Box013
+    100026: Box014
+    100028: Box015
+    100030: Box016
+    100032: Box017
+    100034: ChamferBox001
+    100036: ChamferBox001 1
+    100038: ChamferBox002
+    100040: ChamferBox002 1
+    100042: ChamferBox003
+    100044: ChamferBox004
+    100046: Cylinder001
+    100048: Cylinder001 1
+    100050: Cylinder001 2
+    100052: Cylinder001 3
+    100054: Cylinder001 4
+    100056: Cylinder001 5
+    100058: Cylinder002
+    100060: Cylinder002 1
+    100062: Cylinder002 2
+    100064: Cylinder002 3
+    100066: Cylinder003
+    100068: Cylinder003 1
+    100070: Cylinder003 2
+    100072: Cylinder004
+    100074: Cylinder005
+    100076: Cylinder006
+    100078: Cylinder007
+    100080: Cylinder008
+    100082: Cylinder009
+    100084: GeoSphere001
+    100086: GeoSphere001 1
+    100088: GeoSphere002
+    100090: GeoSphere003
+    100092: GeoSphere003 1
+    100094: GeoSphere004
+    100096: Group001
+    100098: Group001 1
+    100100: Group001 2
+    100102: Group001 3
+    100104: Group002
+    100106: Group002 1
+    100108: Group002 2
+    100110: Group004
+    100112: Group005
+    100114: Group006
+    100116: Group007
+    100118: Group008
+    100120: Group009
+    100122: Group010
+    100124: Omni001
+    100126: Railing001
+    100128: Railing002
+    100130: Railing003
+    100132: Railing004
+    100134: Railing005
+    100136: //RootNode
+    400000: Box001
+    400002: Box002
+    400004: Box003
+    400006: Box004
+    400008: Box005
+    400010: Box006
+    400012: Box007
+    400014: Box008
+    400016: Box009
+    400018: Box010
+    400020: Box011
+    400022: Box012
+    400024: Box013
+    400026: Box014
+    400028: Box015
+    400030: Box016
+    400032: Box017
+    400034: ChamferBox001
+    400036: ChamferBox001 1
+    400038: ChamferBox002
+    400040: ChamferBox002 1
+    400042: ChamferBox003
+    400044: ChamferBox004
+    400046: Cylinder001
+    400048: Cylinder001 1
+    400050: Cylinder001 2
+    400052: Cylinder001 3
+    400054: Cylinder001 4
+    400056: Cylinder001 5
+    400058: Cylinder002
+    400060: Cylinder002 1
+    400062: Cylinder002 2
+    400064: Cylinder002 3
+    400066: Cylinder003
+    400068: Cylinder003 1
+    400070: Cylinder003 2
+    400072: Cylinder004
+    400074: Cylinder005
+    400076: Cylinder006
+    400078: Cylinder007
+    400080: Cylinder008
+    400082: Cylinder009
+    400084: GeoSphere001
+    400086: GeoSphere001 1
+    400088: GeoSphere002
+    400090: GeoSphere003
+    400092: GeoSphere003 1
+    400094: GeoSphere004
+    400096: Group001
+    400098: Group001 1
+    400100: Group001 2
+    400102: Group001 3
+    400104: Group002
+    400106: Group002 1
+    400108: Group002 2
+    400110: Group004
+    400112: Group005
+    400114: Group006
+    400116: Group007
+    400118: Group008
+    400120: Group009
+    400122: Group010
+    400124: Omni001
+    400126: Railing001
+    400128: Railing002
+    400130: Railing003
+    400132: Railing004
+    400134: Railing005
+    400136: //RootNode
+    2300000: Box001
+    2300002: Box002
+    2300004: Box003
+    2300006: Box004
+    2300008: Box005
+    2300010: Box006
+    2300012: Box007
+    2300014: Box008
+    2300016: Box009
+    2300018: Box010
+    2300020: Box011
+    2300022: Box012
+    2300024: Box013
+    2300026: Box014
+    2300028: Box015
+    2300030: Box016
+    2300032: Box017
+    2300034: ChamferBox001
+    2300036: ChamferBox001 1
+    2300038: ChamferBox002
+    2300040: ChamferBox002 1
+    2300042: ChamferBox003
+    2300044: ChamferBox004
+    2300046: Cylinder001
+    2300048: Cylinder001 1
+    2300050: Cylinder001 2
+    2300052: Cylinder001 3
+    2300054: Cylinder001 4
+    2300056: Cylinder001 5
+    2300058: Cylinder002
+    2300060: Cylinder002 1
+    2300062: Cylinder002 2
+    2300064: Cylinder002 3
+    2300066: Cylinder003
+    2300068: Cylinder003 1
+    2300070: Cylinder003 2
+    2300072: Cylinder004
+    2300074: Cylinder005
+    2300076: Cylinder006
+    2300078: Cylinder007
+    2300080: Cylinder008
+    2300082: Cylinder009
+    2300084: GeoSphere001
+    2300086: GeoSphere001 1
+    2300088: GeoSphere002
+    2300090: GeoSphere003
+    2300092: GeoSphere003 1
+    2300094: GeoSphere004
+    2300096: Railing001
+    2300098: Railing002
+    2300100: Railing003
+    2300102: Railing004
+    2300104: Railing005
+    3300000: Box001
+    3300002: Box002
+    3300004: Box003
+    3300006: Box004
+    3300008: Box005
+    3300010: Box006
+    3300012: Box007
+    3300014: Box008
+    3300016: Box009
+    3300018: Box010
+    3300020: Box011
+    3300022: Box012
+    3300024: Box013
+    3300026: Box014
+    3300028: Box015
+    3300030: Box016
+    3300032: Box017
+    3300034: ChamferBox001
+    3300036: ChamferBox001 1
+    3300038: ChamferBox002
+    3300040: ChamferBox002 1
+    3300042: ChamferBox003
+    3300044: ChamferBox004
+    3300046: Cylinder001
+    3300048: Cylinder001 1
+    3300050: Cylinder001 2
+    3300052: Cylinder001 3
+    3300054: Cylinder001 4
+    3300056: Cylinder001 5
+    3300058: Cylinder002
+    3300060: Cylinder002 1
+    3300062: Cylinder002 2
+    3300064: Cylinder002 3
+    3300066: Cylinder003
+    3300068: Cylinder003 1
+    3300070: Cylinder003 2
+    3300072: Cylinder004
+    3300074: Cylinder005
+    3300076: Cylinder006
+    3300078: Cylinder007
+    3300080: Cylinder008
+    3300082: Cylinder009
+    3300084: GeoSphere001
+    3300086: GeoSphere001 1
+    3300088: GeoSphere002
+    3300090: GeoSphere003
+    3300092: GeoSphere003 1
+    3300094: GeoSphere004
+    3300096: Railing001
+    3300098: Railing002
+    3300100: Railing003
+    3300102: Railing004
+    3300104: Railing005
+    4300000: GeoSphere001
+    4300002: Cylinder008
+    4300004: ChamferBox002
+    4300006: Cylinder003
+    4300008: Cylinder001
+    4300010: Cylinder002
+    4300012: ChamferBox001
+    4300014: ChamferBox003
+    4300016: ChamferBox002
+    4300018: ChamferBox001
+    4300020: GeoSphere001
+    4300022: GeoSphere002
+    4300024: GeoSphere003
+    4300026: Cylinder007
+    4300028: Cylinder006
+    4300030: Cylinder005
+    4300032: Cylinder004
+    4300034: Cylinder003
+    4300036: Cylinder002
+    4300038: Cylinder001
+    4300040: Cylinder002
+    4300042: Cylinder001
+    4300044: ChamferBox004
+    4300046: GeoSphere003
+    4300048: Cylinder001
+    4300050: GeoSphere004
+    4300052: Cylinder009
+    4300054: Box015
+    4300056: Box016
+    4300058: Box005
+    4300060: Box011
+    4300062: Box012
+    4300064: Box009
+    4300066: Cylinder001
+    4300068: Railing002
+    4300070: Railing003
+    4300072: Railing004
+    4300074: Railing001
+    4300076: Box017
+    4300078: Railing005
+    4300080: Box006
+    4300082: Box002
+    4300084: Box004
+    4300086: Box010
+    4300088: Box008
+    4300090: Box001
+    4300092: Box007
+    4300094: Box014
+    4300096: Box013
+    4300098: Box003
+    4300100: Cylinder003
+    4300102: Cylinder002
+    4300104: Cylinder001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

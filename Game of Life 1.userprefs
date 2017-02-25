@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scene1\Scripts\LeaderBoard.cs">
+    <Files>
+      <File FileName="Assets\scene1\Scripts\Spawning.cs" Line="1" Column="1" />
+      <File FileName="Assets\scene1\Scripts\NetworkManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\scene1\Scripts\Grid.cs" Line="1" Column="1" />
+      <File FileName="Assets\scene1\Scripts\Simulation.cs" Line="1" Column="1" />
+      <File FileName="Assets\scene1\Scripts\Cell.cs" Line="1" Column="1" />
+      <File FileName="Assets\scene1\Scripts\ScoreManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\scene1\Scripts\LeaderBoard.cs" Line="210" Column="26" />
+      <File FileName="Assets\Main menu\Scripts\AccountManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Main menu\Scripts\Snapshot.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
